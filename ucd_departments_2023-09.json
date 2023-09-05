@@ -1,0 +1,479 @@
+[
+    [
+      "",
+      ""
+    ],
+    [
+      "College of Agricultural and Environmental Sciences",
+      [
+        [
+          "CAES: Agricultural and Resource Economics",
+          "Agricultural and Resource Economics"
+        ],
+        [
+          "CAES: Animal Science",
+          "Animal Science"
+        ],
+        [
+          "CAES: Biological and Agricultural Engineering",
+          "Biological and Agricultural Engineering"
+        ],
+        [
+          "CAES: Entomology and Nematology",
+          "Entomology and Nematology"
+        ],
+        [
+          "CAES: Environmental Science and Policy",
+          "Environmental Science and Policy"
+        ],
+        [
+          "CAES: Environmental Toxicology",
+          "Environmental Toxicology"
+        ],
+        [
+          "CAES: Food Science & Technology",
+          "Food Science & Technology"
+        ],
+        [
+          "CAES: Human Ecology",
+          "Human Ecology"
+        ],
+        [
+          "CAES: Land, Air & Water Resources",
+          "Land, Air & Water Resources"
+        ],
+        [
+          "CAES: Nutrition",
+          "Nutrition"
+        ],
+        [
+          "CAES: Plant Pathology",
+          "Plant Pathology"
+        ],
+        [
+          "CAES: Plant Sciences",
+          "Plant Sciences"
+        ],
+        [
+          "CAES: Textiles and Clothing",
+          "Textiles and Clothing"
+        ],
+        [
+          "CAES: Viticulture & Enology",
+          "Viticulture & Enology"
+        ],
+        [
+          "CAES: Wildlife, Fish, and Conservation Biology",
+          "Wildlife, Fish, and Conservation Biology"
+        ]
+      ]
+    ],
+    [
+      "College of Biological Sciences",
+      [
+        [
+          "CBS: Evolution and Ecology",
+          "Evolution and Ecology"
+        ],
+        [
+          "CBS: Genome Center",
+          "Genome Center"
+        ],
+        [
+          "CBS: Microbiology and Molecular Genetics",
+          "Microbiology and Molecular Genetics"
+        ],
+        [
+          "CBS: Molecular and Cellular Biology",
+          "Molecular and Cellular Biology"
+        ],
+        [
+          "CBS: Neurobiology, Physiology and Behavior",
+          "Neurobiology, Physiology and Behavior"
+        ],
+        [
+          "CBS: Plant Biology",
+          "Plant Biology"
+        ]
+      ]
+    ],
+    [
+      "College of Engineering",
+      [
+        [
+          "COE: Biological and Agricultural Engineering",
+          "Biological and Agricultural Engineering"
+        ],
+        [
+          "COE: Biomedical Engineering",
+          "Biomedical Engineering"
+        ],
+        [
+          "COE: Chemical Engineering",
+          "Chemical Engineering"
+        ],
+        [
+          "COE: Civil and Environmental Engineering",
+          "Civil and Environmental Engineering"
+        ],
+        [
+          "COE: Computer Science",
+          "Computer Science"
+        ],
+        [
+          "COE: Electrical & Computer Engineering",
+          "Electrical & Computer Engineering"
+        ],
+        [
+          "COE: Materials Science & Engineering",
+          "Materials Science & Engineering"
+        ],
+        [
+          "COE: Mechanical & Aerospace Engineering",
+          "Mechanical & Aerospace Engineering"
+        ]
+      ]
+    ],
+    [
+      "College of Letters and Science",
+      [
+        [
+          "CL&S: African American and African Studies",
+          "African American and African Studies"
+        ],
+        [
+          "CL&S: Art and Art History",
+          "Art and Art History"
+        ],
+        [
+          "CL&S: Asian American Studies",
+          "Asian American Studies"
+        ],
+        [
+          "CL&S: Chicana/o Studies",
+          "Chicana/o Studies"
+        ],
+        [
+          "CL&S: Comparative Literature",
+          "Comparative Literature"
+        ],
+        [
+          "CL&S: Design",
+          "Design"
+        ],
+        [
+          "CL&S: East Asian Languages and Cultures",
+          "East Asian Languages and Cultures"
+        ],
+        [
+          "CL&S: English",
+          "English"
+        ],
+        [
+          "CL&S: French and Italian",
+          "French and Italian"
+        ],
+        [
+          "CL&S: German and Russian",
+          "German and Russian"
+        ],
+        [
+          "CL&S: Music",
+          "Music"
+        ],
+        [
+          "CL&S: Native American Studies",
+          "Native American Studies"
+        ],
+        [
+          "CL&S: Religious Studies",
+          "Religious Studies"
+        ],
+        [
+          "CL&S: Spanish & Portuguese",
+          "Spanish & Portuguese"
+        ],
+        [
+          "CL&S: Theatre and Dance",
+          "Theatre and Dance"
+        ],
+        [
+          "CL&S: Chemistry",
+          "Chemistry"
+        ],
+        [
+          "CL&S: Earth and Planetary Sciences",
+          "Earth and Planetary Sciences"
+        ],
+        [
+          "CL&S: Mathematics",
+          "Mathematics"
+        ],
+        [
+          "CL&S: Physics",
+          "Physics"
+        ],
+        [
+          "CL&S: Statistics",
+          "Statistics"
+        ],
+        [
+          "CL&S: Anthropology",
+          "Anthropology"
+        ],
+        [
+          "CL&S: Communication",
+          "Communication"
+        ],
+        [
+          "CL&S: Economics",
+          "Economics"
+        ],
+        [
+          "CL&S: History",
+          "History"
+        ],
+        [
+          "CL&S: Linguistics",
+          "Linguistics"
+        ],
+        [
+          "CL&S: Military Science",
+          "Military Science"
+        ],
+        [
+          "CL&S: Philosophy",
+          "Philosophy"
+        ],
+        [
+          "CL&S: Political Science",
+          "Political Science"
+        ],
+        [
+          "CL&S: Psychology",
+          "Psychology"
+        ],
+        [
+          "CL&S: Sociology",
+          "Sociology"
+        ]
+      ]
+    ],
+    [
+      "School of Medicine",
+      [
+        [
+          "SOM: Anesthesiology and Pain Medicine",
+          "Anesthesiology and Pain Medicine"
+        ],
+        [
+          "SOM: Biochemistry & Molecular Medicine",
+          "Biochemistry & Molecular Medicine"
+        ],
+        [
+          "SOM: Cell Biology and Human Anatomy",
+          "Cell Biology and Human Anatomy"
+        ],
+        [
+          "SOM: Dermatology",
+          "Dermatology"
+        ],
+        [
+          "SOM: Emergency Medicine",
+          "Emergency Medicine"
+        ],
+        [
+          "SOM: Family and Community Medicine",
+          "Family and Community Medicine"
+        ],
+        [
+          "SOM: Internal Medicine",
+          "Internal Medicine"
+        ],
+        [
+          "SOM: Microbiology & Immunology",
+          "Microbiology & Immunology"
+        ],
+        [
+          "SOM: Neurology",
+          "Neurology"
+        ],
+        [
+          "SOM: Neurological Surgery",
+          "Neurological Surgery"
+        ],
+        [
+          "SOM: Obstetrics & Gynecology",
+          "Obstetrics & Gynecology"
+        ],
+        [
+          "SOM: Ophthalmology& Vision Science",
+          "Ophthalmology& Vision Science"
+        ],
+        [
+          "SOM: Orthopaedic Surgery",
+          "Orthopaedic Surgery"
+        ],
+        [
+          "SOM: Otolaryngology",
+          "Otolaryngology"
+        ],
+        [
+          "SOM: Pathology & Laboratory Medicine",
+          "Pathology & Laboratory Medicine"
+        ],
+        [
+          "SOM: Pediatrics",
+          "Pediatrics"
+        ],
+        [
+          "SOM: Pharmacology",
+          "Pharmacology"
+        ],
+        [
+          "SOM: Physical Medicine & Rehabilitation",
+          "Physical Medicine & Rehabilitation"
+        ],
+        [
+          "SOM: Physiology & Membrane Biology",
+          "Physiology & Membrane Biology"
+        ],
+        [
+          "SOM: Psychiatry & Behavioral Science",
+          "Psychiatry & Behavioral Science"
+        ],
+        [
+          "SOM: Public Health Sciences",
+          "Public Health Sciences"
+        ],
+        [
+          "SOM: Radiology",
+          "Radiology"
+        ],
+        [
+          "SOM: Radiation Oncology",
+          "Radiation Oncology"
+        ],
+        [
+          "SOM: Surgery",
+          "Surgery"
+        ],
+        [
+          "SOM: Urology",
+          "Urology"
+        ]
+      ]
+    ],
+    [
+      "School of Veterinary Medicine",
+      [
+        [
+          "SVM: Anatomy, Physiology & Cell Biology",
+          "Anatomy, Physiology & Cell Biology"
+        ],
+        [
+          "SVM: Medicine and Epidemiology",
+          "Medicine and Epidemiology"
+        ],
+        [
+          "SVM: Molecular Biosciences",
+          "Molecular Biosciences"
+        ],
+        [
+          "SVM: Pathology, Microbiology & Immunology",
+          "Pathology, Microbiology & Immunology"
+        ],
+        [
+          "SVM: Population Health and Reproduction",
+          "Population Health and Reproduction"
+        ],
+        [
+          "SVM: Surgical & Radiological Sciences",
+          "Surgical & Radiological Sciences"
+        ]
+      ]
+    ],
+    [
+      "Organized Research Units",
+      [
+        [
+          "ORU: Air Quality Research Center",
+          "Air Quality Research Center"
+        ],
+        [
+          "ORU: Bodega Marine Laboratory",
+          "Bodega Marine Laboratory"
+        ],
+        [
+          "ORU: California National Primate Research Center",
+          "California National Primate Research Center"
+        ],
+        [
+          "ORU: Comprehensive Cancer Center",
+          "Comprehensive Cancer Center"
+        ],
+        [
+          "ORU: Center for Healthcare Policy and Research",
+          "Center for Healthcare Policy and Research"
+        ],
+        [
+          "ORU: Institute of Transportation Studies",
+          "Institute of Transportation Studies"
+        ],
+        [
+          "ORU: John Muir Institute for the Environment",
+          "Institute for the Environment"
+        ],
+        [
+          "ORU: Program in International and Community Nutrition",
+          "Program in International and Community Nutrition"
+        ]
+      ]
+    ],
+    [
+      "Other",
+      [
+        [
+          "Other: Center for Eucational Excellence",
+          "Center Educational Excellence"
+        ],
+        [
+          "Other: Center for Regional Change",
+          "Center for Regional Change"
+        ],
+        [
+          "Other: DataLab: Data Science and Informatics",
+          "DataLab: Data Science and Informatics"
+        ],
+        [
+          "Other: High Performance Computing Core Facility",
+          "High Performance Computing Core Facility"
+        ],
+        [
+          "Other: Information and Educational Technology",
+          "Information and Educational Technology"
+        ],
+        [
+          "Other: Institutional Analysis",
+          "Institutional Analysis"
+        ],
+        [
+          "Other: Library",
+          "Library"
+        ],
+        [
+          "Other: Other",
+          "Other"
+        ]
+      ]
+    ]
+    [
+      "NA",
+      [
+        [
+          "NA: NA",
+          "NA"
+        ]
+      ]
+    ]
+  ]
