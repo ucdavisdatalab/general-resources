@@ -1,7 +1,13 @@
 [
-        ["CAES: Agricultural and Resource Economics"],
-        ["CAES: Animal Science"],
-        ["CAES: Biological and Agricultural Engineering"],
+        [
+          "CAES: Agricultural and Resource Economics"
+        ],
+        [
+          "CAES: Animal Science"
+        ],
+        [
+          "CAES: Biological and Agricultural Engineering"
+        ],
         ["CAES: Entomology and Nematology"],
         ["CAES: Environmental Science and Policy"],
         ["CAES: Environmental Toxicology"],
@@ -19,8 +25,11 @@
         ["CBS: Microbiology and Molecular Genetics"],
         ["CBS: Molecular and Cellular Biology"],
         ["CBS: Neurobiology, Physiology and Behavior"],
-        ["CBS: Plant Biology"],
-        ["COE: Biological and Agricultural Engineering"],
+        [
+          "CBS: Plant Biology"
+        ],
+        [
+          "COE: Biological and Agricultural Engineering"],
         [
           "COE: Biomedical Engineering"
         ],
@@ -277,4 +286,3 @@
         [
           "NA: NA"]
       ]
-]
